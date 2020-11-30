@@ -92,7 +92,7 @@ position: fixed Подвид абсолютного позиционирован
       * `outline-style`
       * `outline-color`
       * `outline-width`
-      * `outline-offset`
+      * `outline-offset` - ' это растояние между рамками и оутлейн
       * `outline`
   * Тени
     * Что делает свойство `box-shadow`? Как им пользоваться?
