@@ -117,7 +117,7 @@ variable.constructor === Array
   }
   ```
   На деле же оказывается, что при клике на любую ссылку выводится одно и то же число — значение `links.length`. Почему так происходит и как эту гадость исправить?
-https://learn.javascript.ru/task/make-army
+https://learn.javascript.ru/task/make-army + (let i = 0; i < links.length; i++)
 * Что такое callback (функция обратного вызова)? Когда они обычно применяются?
 * Что такое каррирование?
 * Что такое частичное применение?
